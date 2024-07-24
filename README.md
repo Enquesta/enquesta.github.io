@@ -26,5 +26,5 @@ provide a web based archive of the questions asked.
   - Event Heads: Arjunkrishna M, Johanna Esther
   - Event Hosts: Arjunkrishna M., Johanna Esther, Achuth Krishna
   - Tech: Alan Joseph
-  - Juniors: Atul, Ann, Edward Sheen, Vimarsh, Abhiraj, Sidharth, Niya, Kishan Shivadas, Bhavin Shankar
+  - Juniors: Atul, Ann, Edward Sheen, Vimarsh, Abhiraj, Siddarth K V, Niya, Kishan Shivadas, Bhavin Shankar
   - Winners: Christ Nagar ISC School
