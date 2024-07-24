@@ -5,7 +5,8 @@ Enquesta is one of the many events conducted as a part of [LA Fest](https://lafe
 From 2022, all Enquesta questions were created using RevealJs and all the slides used during the event are in reality just websites. This enables use to
 provide a web based archive of the questions asked.
 
-> [!NOTE]
+> NOTE
+> 
 > Since 2024, we have stopped sharing our questions immediately because we have become too tired to make new one :P. They will be shared at a later date.
 However, we will continue to share different scripts and other stuff that we use to make the event better each year.
 
