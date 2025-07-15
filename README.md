@@ -44,4 +44,4 @@ provide a web based archive of the questions asked.
   - [Website-Finals](https://enquesta.github.io/enquesta2025-finals/)
   - [Github Repo-Prelims](https://github.com/Enquesta/enquesta2025-prelims)
   - [Github Repo-Finals](https://github.com/Enquesta/enquesta2025-finals)
-  - Code for the Buzzer: [Github Repo-Buzzer]https://github.com/Enquesta/enquesta-android-buzzer)
+  - Code for the Buzzer: [Github Repo-Buzzer](https://github.com/Enquesta/enquesta-android-buzzer)
