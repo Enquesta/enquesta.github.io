@@ -5,11 +5,6 @@ Enquesta is one of the many events conducted as a part of [LA Fest](https://lafe
 From 2022, all Enquesta questions were created using RevealJs and all the slides used during the event are in reality just websites. This enables use to
 provide a web based archive of the questions asked.
 
-> NOTE
-> 
-> Since 2024, we have stopped sharing our questions immediately because we have become too tired to make new one :P. They will be shared at a later date.
-However, we will continue to share different scripts and other stuff that we use to make the event better each year.
-
 ### 💻 Legacy
 - Enquesta 2022
   - Event Heads: Adithya Kishor, Rohan Deepu
@@ -33,5 +28,20 @@ However, we will continue to share different scripts and other stuff that we use
   - Tech: Alan Joseph
   - Juniors: Atul, Ann, Edward Sheen, Vimarsh, Abhiraj, Siddarth K V, Niya, Kishan Shivadas, Bhavin Shankar
   - Winners: Christ Nagar ISC School
+  - [Website-Prelims](https://enquesta.github.io/enquesta2024-prelims/)
+  - [Website-Finals](https://enquesta.github.io/enquesta2024-finals/)
+  - [Github Repo-Prelims](https://github.com/Enquesta/enquesta2024-prelims)
+  - [Github Repo-Finals](https://github.com/Enquesta/enquesta2024-finals)
   - Scripts Used: [Github Repo-Scripts](https://github.com/Enquesta/enquesta2024-scripts)
   - Code and Schematic for the Buzzer: [Github Repo-Buzzer](https://github.com/Enquesta/enquesta-buzzer-code)
+- Enquesta 2025
+  - Event Heads: Atul P, Ann Mary Ciju
+  - Event Hosts: Edward Sheen, Prithvi K Joshy, Ebin Varghese Vinu, Muhammad Fayeez, Ann Mary Ciju, Atul P
+  - Tech: Nikhil Sini Shine, Bhavin Shankar, Pranavu R
+  - Juniors: Athul, Ann Mary, Pranav, Kamala Ram, Arshad Muhammad, Ishaan Sajay, Niranjan Sajith, Gowri Umesh, Mehreen A Latheef, Anna Theresa Tenny, Madhav Suresh, Madhav Pravee, Ananthakrishan L, Abhineeth Ganesh, Vaishnav, Anish Bandhopadhyay, Ashwin Raj, Sreehari P Kurup
+  - Winners: Christ Nagar ISC Shool
+  - [Website-Prelims](https://enquesta.github.io/enquesta2025-prelims/)
+  - [Website-Finals](https://enquesta.github.io/enquesta2025-finals/)
+  - [Github Repo-Prelims](https://github.com/Enquesta/enquesta2025-prelims)
+  - [Github Repo-Finals](https://github.com/Enquesta/enquesta2025-finals)
+  - Code for the Buzzer: [Github Repo-Buzzer]https://github.com/Enquesta/enquesta-android-buzzer)
