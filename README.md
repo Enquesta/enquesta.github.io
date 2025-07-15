@@ -38,7 +38,7 @@ provide a web based archive of the questions asked.
   - Event Heads: Atul P, Ann Mary Ciju
   - Event Hosts: Edward Sheen, Prithvi K Joshy, Ebin Varghese Vinu, Muhammad Fayeez, Ann Mary Ciju, Atul P
   - Tech: Nikhil Sini Shine, Bhavin Shankar, Pranavu R
-  - Juniors: Athul, Ann Mary, Pranav, Kamala Ram, Arshad Muhammad, Ishaan Sajay, Niranjan Sajith, Gowri Umesh, Mehreen A Latheef, Anna Theresa Tenny, Madhav Suresh, Madhav Pravee, Ananthakrishan L, Abhineeth Ganesh, Vaishnav, Anish Bandhopadhyay, Ashwin Raj, Sreehari P Kurup
+  - Juniors: Athul, Ann Mary, Pranav, Kamala Ram, Arshad Muhammad, Ishaan Sajay, Niranjan Sajith, Gowri Umesh, Mehreen A Latheef, Anna Theresa Tenny, Madhav Suresh, Madhav Praveen, Ananthakrishan L, Abhineeth Ganesh, Vaishnav, Anish Bandhopadhyay, Ashwin Raj, Sreehari P Kurup
   - Winners: Christ Nagar ISC Shool
   - [Website-Prelims](https://enquesta.github.io/enquesta2025-prelims/)
   - [Website-Finals](https://enquesta.github.io/enquesta2025-finals/)
