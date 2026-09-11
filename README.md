@@ -45,3 +45,14 @@ provide a web based archive of the questions asked.
   - [Github Repo-Prelims](https://github.com/Enquesta/enquesta2025-prelims)
   - [Github Repo-Finals](https://github.com/Enquesta/enquesta2025-finals)
   - Code for the Buzzer: [Github Repo-Buzzer](https://github.com/Enquesta/enquesta-android-buzzer)
+- Enquesta 2026
+  - Event Heads: Gowri Umesh, Mehreen A Latheef, Madhav Praveen
+  - Event Hosts: Abhineet Ganesh, Anna Theresa Tenny, Ann Mary, Mehreen A Latheef, Madhav Praveen, Gowri Umesh, Vaishnav A Nair, Kamala Ram, Ashwin Raj
+  - Tech: Arshad Muhammad
+  - Juniors: Advaith Vivek, Hayah Fathima, Kashinadh Sharma, Vaishnavi Sharma, Pranav Dinesh Nair, Jonathan Edwards, Ashwin, Vinayak, Aaron Renji Mathew, Devdarshan
+  - Winners: Bharatiya Vidya Bhavan 
+  - [Website-Prelims](https://enquesta.github.io/enquesta2026-prelims/)
+  - [Website-Finals](https://enquesta.github.io/enquesta2026-finals/)
+  - [Github Repo-Prelims](https://github.com/Enquesta/enquesta2026-prelims)
+  - [Github Repo-Finals](https://github.com/Enquesta/enquesta2026-finals)
+
