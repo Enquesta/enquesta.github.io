@@ -49,6 +49,7 @@ provide a web based archive of the questions asked.
   - Event Heads: Gowri Umesh, Mehreen A Latheef, Madhav Praveen
   - Event Hosts: Abhineet Ganesh, Anna Theresa Tenny, Ann Mary, Mehreen A Latheef, Madhav Praveen, Gowri Umesh, Vaishnav A Nair, Kamala Ram, Ashwin Raj
   - Tech: Arshad Muhammad
+  - Helpers: Niranjan Sajith,Ananthakrishnan L, Anish Bandyopadhyay 
   - Juniors: Advaith Vivek, Hayah Fathima, Kashinadh Sharma, Vaishnavi Sharma, Pranav Dinesh Nair, Jonathan Edwards, Ashwin, Vinayak, Aaron Renji Mathew, Devdarshan
   - Winners: Bharatiya Vidya Bhavan 
   - [Website-Prelims](https://enquesta.github.io/enquesta2026-prelims/)
